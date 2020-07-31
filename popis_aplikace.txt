@@ -1,0 +1,9 @@
+    Aplikace bude nápomocná k nauce fyziky pro všechny kdo budou chtít. Bude 
+obsahovat všechny oblasti fyziky, od základní až po ty složité.
+
+    Základem aplikace je vkládání jednotlivých problémů s oblasti fyziky. Lze 
+je vkládat do různých oddílů a také v nich vyhledávat. Dále je možné vkládat 
+obrázky popisující daný problém a také kalkulačka daného problému z různých 
+úhlů (pokud počítám pythagorovu větu, mohu ji počítat z více proměnných).
+
+Ukládání jednotlivých problémů bude pomocí sql nebo xml, dle výzkumu.
